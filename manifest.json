@@ -1,0 +1,24 @@
+{
+	"manifest_version": 3,
+	"name": "col-dl",
+	"version": "1.0.0",
+	"description": "可导出co-learning平台的支架，去除选项。插件仅在电脑端可用。",
+	"author": "quarkape",
+	"action": {
+		"default_title": "col-dl",
+		"default_popup": "popup.html"
+	},
+	"icons": {
+		"16": "img/free-canvas.png",
+		"48": "img/free-canvas.png",
+		"128": "img/free-canvas.png"
+	},
+	"permissions": ["tabs"],
+	"homepage_url": "https://github.com/quarkape",
+	"content_scripts": [
+		{
+			"matches": ["http://co-learning.org.cn/co_learning/web/*"],
+			"js": ["js/content.js"]
+		}
+	]
+}
