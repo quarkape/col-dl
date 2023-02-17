@@ -4,7 +4,7 @@
 
 ## 适用平台
 
-[![](https://img.shields.io/static/v1?label=协作学习共享调节平台&message=http://co-learning.org.cn/&color=666&labelColor=0081ff)](https://www.logosc.cn/)
+[![](https://img.shields.io/static/v1?label=协作学习共享调节平台&message=co-learning&color=666&labelColor=0081ff)](http://co-learning.org.cn/)
 
 - 仅限华东师范大学共享调节团队内部使用
 
