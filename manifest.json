@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "col-dl",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "可导出co-learning平台的支架，去除选项。插件仅在电脑端可用。",
 	"author": "quarkape",
 	"action": {
